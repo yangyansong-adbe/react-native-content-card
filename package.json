@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "react-native-content-card-monorepo",
+  "version": "1.0.0",
+  "workspaces": {
+    "packages": [
+      "ExpoApp",
+      "ContentCardDemoApp",
+      "packages/*"
+    ]
+  },
+  "packageManager": "yarn@4.9.2"
+}
